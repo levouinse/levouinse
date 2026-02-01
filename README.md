@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C, C++, Rust, Golang<br>💬 Ask me about Javascript<br>My portfolio : https://portfolio-andi.vercel.app
+🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on Python<br>🌱 I’m currently learning C, C++, Rust, Golang<br>💬 Ask me about Javascript<br>My portfolio : https://portfolio-andi.vercel.app
 
 
 ## 🌐 Socials:

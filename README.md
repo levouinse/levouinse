@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on Python<br>🌱 I’m currently learning C, C++, Rust, Golang<br>💬 Ask me about Javascript<br>🌐 Languages : Indonesia, Tagalog, English, and traditional language like Bugis Makassar<br>My portfolio : https://portfolio-andi.vercel.app
+🔭 I’m currently working on NextJs<br>👯 I’m looking to collaborate on Python<br>🌱 I’m currently learning C, C++, Rust, and Golang<br>💬 Ask me about Javascript<br>🌐 Languages : Indonesia, Tagalog, English, and traditional language like Bugis Makassar<br>My portfolio : https://portfolio-andi.vercel.app
 
 
 ## 🌐 Socials:

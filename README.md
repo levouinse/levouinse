@@ -5,7 +5,7 @@
 🌱 Learning **C, C++, Rust, and Golang**  
 💬 Ask me about **JavaScript**  
 🌐 Languages: **Indonesian, Tagalog, English, Bugis Makassar**  
-🌍 Portfolio: [portfolio-andi.vercel.app](https://andifarel.biz.id/)
+🌍 Portfolio: [andifarel.biz.id](https://andifarel.biz.id/)
 
 ## 🌐 Connect With Me
 

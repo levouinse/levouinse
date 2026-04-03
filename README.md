@@ -63,6 +63,8 @@
 
 <div align="center">
 
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=levouinse&cardType=langs&_t=1775203540053)
+
 ![](https://github-readme-stats.vercel.app/api?username=levouinse&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=levouinse&theme=dark&hide_border=false)

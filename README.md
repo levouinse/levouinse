@@ -65,7 +65,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=levouinse&cardType=langs&_t=1775203540053)
 
 ![levouinse's GitHub Stats](https://readme-stats-github.pages.dev/api?username=levouinse&theme=dark)
 

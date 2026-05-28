@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kofikampoes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-farel)
 
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Full%20Stuck%20Developer%20d)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Full%20Stuck%20Developers)
 
 ## 💻 Tech Stack
 
